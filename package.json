@@ -1,0 +1,11 @@
+{
+  "name": "dawn-mobx-server-waiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "dn test && dn build -e prod"
+  },
+  "author": "",
+  "license": "MIT"
+}
